@@ -3,3 +3,5 @@ Hoy: Gracias, Deseos, Artes, Sombras y Ombligo.
 Sueños: Nuevo agrega una línea; el check verde marca cumplido sin borrar.
 Calendario: azul = 5+5+5 completos; verde = Ombligo; marrón = Sombras.
 Datos: CSV para Excel. Datos guardados localmente.
+
+Ajuste v2.1: Gracias en magenta claro y Ombligo en amarillo limón.
